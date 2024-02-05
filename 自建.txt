@@ -1,1 +1,6 @@
-
+42.2.235.215	:	12345	#	HKT Limited
+218.250.121.87	:	443	#	HKT Limited
+219.76.13.183	:	443	#	HKT Limited
+218.102.12.37	:	9999	#	HKT Limited
+219.76.13.169	:	443	#	HKT Limited
+219.76.13.164	:	443	#	HKT Limited
