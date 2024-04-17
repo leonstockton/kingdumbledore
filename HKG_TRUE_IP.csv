@@ -1,0 +1,198 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+18.167.208.181,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,183,40.85
+38.207.161.206,39522,TRUE,HKG,HK,Asia Pacific,Hong Kong,967,VMISS,184,35.39
+8.218.122.55,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",203,33.70
+38.207.161.158,36166,TRUE,HKG,HK,Asia Pacific,Hong Kong,967,VMISS,238,33.68
+8.218.22.210,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",173,33.51
+8.218.201.73,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",190,32.71
+47.243.42.219,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",197,32.37
+47.242.60.161,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",223,31.47
+47.243.42.219,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",176,31.47
+8.218.122.55,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",204,30.06
+8.222.152.71,2083,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",273,29.58
+103.247.29.42,10081,TRUE,HKG,HK,Asia Pacific,Hong Kong,967,VMISS,216,28.62
+8.210.55.134,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",184,27.91
+8.218.122.55,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",195,27.76
+8.222.145.164,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",286,27.64
+47.243.42.219,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",192,27.59
+8.219.77.91,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",301,25.31
+23.26.217.14,38112,TRUE,HKG,HK,Asia Pacific,Hong Kong,51847,Nearoute Limited,330,25.28
+8.218.3.12,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",178,25.18
+8.217.159.210,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",172,24.71
+8.210.245.224,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",194,23.92
+8.217.221.165,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",184,23.70
+47.243.42.219,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",178,22.32
+47.243.107.148,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",176,21.76
+18.162.32.152,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,176,21.61
+8.210.55.134,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",174,20.52
+43.132.167.112,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",169,20.27
+23.26.217.56,20443,TRUE,HKG,HK,Asia Pacific,Hong Kong,51847,Nearoute Limited,335,20.03
+8.210.245.224,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",206,19.97
+47.243.203.119,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",185,16.87
+8.222.150.197,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",321,16.80
+47.243.203.119,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",177,15.00
+8.218.3.12,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",180,12.90
+8.210.3.24,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",188,11.08
+8.218.3.12,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",190,10.85
+8.210.3.24,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",211,10.50
+18.167.194.154,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,162,10.06
+8.210.245.224,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",202,9.82
+8.217.85.14,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",216,9.26
+38.207.143.37,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,198100,WAP.AC LTD,320,9.26
+27.115.117.197,32813,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,595,8.83
+8.218.22.210,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",181,8.46
+27.115.117.197,12236,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,609,7.84
+49.143.123.158,10513,TRUE,KIX,JP,Asia Pacific,Osaka,9319,HCN CHUNGBUK CABLE TV SYSTEMS,602,7.62
+115.91.95.202,35285,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,361,7.18
+38.47.120.61,14525,TRUE,HKG,HK,Asia Pacific,Hong Kong,198100,WAP.AC LTD,181,7.01
+115.91.95.202,14231,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,359,6.97
+49.143.123.158,19806,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,190,6.94
+121.171.77.120,10977,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,289,6.80
+218.232.46.4,30704,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,376,6.65
+128.134.19.45,11565,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,362,6.64
+115.91.95.202,27890,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,314,6.57
+123.142.105.38,16055,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,307,6.56
+221.145.223.88,19885,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,307,6.56
+115.91.127.251,17508,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,386,6.56
+27.115.117.197,38912,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,664,6.52
+49.142.147.27,31885,TRUE,KIX,JP,Asia Pacific,Osaka,9319,HCN CHUNGBUK CABLE TV SYSTEMS,624,6.46
+27.115.117.197,29163,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,636,6.20
+115.91.95.202,29902,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,304,6.15
+222.120.203.187,19228,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,295,6.08
+59.148.136.12,15016,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,177,6.04
+222.99.156.159,22625,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,319,6.03
+58.125.118.230,12721,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,361,5.94
+49.142.147.27,22389,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,223,5.93
+154.9.246.188,18859,TRUE,HKG,HK,Asia Pacific,Hong Kong,55933,Cloudie Limited,197,5.91
+218.237.123.117,17199,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,351,5.82
+182.226.53.214,30157,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,413,5.79
+49.142.147.27,14153,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,220,5.75
+39.118.238.82,10961,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,316,5.70
+175.199.77.12,34424,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,296,5.69
+121.187.146.162,19928,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,322,5.66
+14.46.128.84,24301,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,306,5.66
+49.142.147.27,27280,TRUE,KIX,JP,Asia Pacific,Osaka,9319,HCN CHUNGBUK CABLE TV SYSTEMS,636,5.60
+58.153.94.107,37342,TRUE,HKG,HK,Asia Pacific,Hong Kong,4760,HKT Limited,188,5.54
+58.153.94.107,10226,TRUE,HKG,HK,Asia Pacific,Hong Kong,4760,HKT Limited,188,5.53
+59.148.136.12,18012,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,191,5.42
+1.221.213.28,14891,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,342,5.35
+182.224.50.51,20500,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,326,5.35
+106.254.121.34,14297,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,346,5.28
+210.100.215.99,29444,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,5.24
+58.153.94.107,23177,TRUE,HKG,HK,Asia Pacific,Hong Kong,4760,HKT Limited,209,5.14
+58.153.94.107,11746,TRUE,HKG,HK,Asia Pacific,Hong Kong,4760,HKT Limited,213,4.92
+27.115.117.197,20731,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,627,4.89
+175.202.241.113,25322,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,283,4.88
+39.126.183.69,38196,TRUE,KIX,JP,Asia Pacific,Osaka,9319,HCN CHUNGBUK CABLE TV SYSTEMS,636,4.81
+61.81.181.169,14985,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,317,4.80
+182.228.11.149,25828,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,337,4.80
+118.130.241.44,18273,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,372,4.79
+59.148.136.12,38562,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,198,4.76
+114.206.65.6,23250,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,458,4.71
+27.115.117.197,28765,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,654,4.70
+8.217.85.212,48381,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",195,4.69
+58.238.50.200,15600,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,306,4.68
+211.224.163.194,16977,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,346,4.64
+8.217.229.36,58029,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",184,4.55
+8.210.168.29,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",170,4.48
+8.210.121.137,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",204,4.48
+8.217.229.36,43931,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",190,4.47
+101.32.187.87,5005,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",184,4.46
+8.217.85.212,40125,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",158,4.45
+8.217.229.36,24183,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",207,4.45
+175.196.251.67,20345,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,315,4.43
+8.217.85.212,41538,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",189,4.42
+121.144.213.249,37730,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,308,4.39
+49.142.147.27,11071,TRUE,KIX,JP,Asia Pacific,Osaka,9319,HCN CHUNGBUK CABLE TV SYSTEMS,640,4.37
+119.28.58.214,10007,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",181,4.37
+59.149.204.93,54321,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,671,4.34
+8.217.85.212,18980,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",184,4.28
+118.131.115.3,18300,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,328,4.22
+58.123.132.16,33860,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,349,4.21
+27.115.117.197,17630,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,639,4.21
+115.95.134.179,30021,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,296,4.18
+39.126.160.150,32003,TRUE,KIX,JP,Asia Pacific,Osaka,9319,HCN CHUNGBUK CABLE TV SYSTEMS,699,4.18
+123.202.83.184,34576,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,487,4.16
+8.217.229.36,16824,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",182,4.12
+8.217.85.212,20429,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",207,4.10
+154.9.207.38,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,55799,IPTELECOM ASIA,981,4.08
+8.210.41.54,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",182,4.03
+8.210.203.171,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",174,3.99
+222.101.89.155,23082,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,316,3.97
+61.251.233.163,30015,TRUE,ICN,KR,Asia Pacific,Seoul,9689,SK Broadband Co Ltd,287,3.73
+115.94.177.42,30063,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,316,3.73
+124.156.139.192,1301,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",206,3.72
+8.218.22.210,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",195,3.63
+47.242.196.67,42853,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",178,3.57
+116.47.165.149,30064,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,288,3.55
+49.165.150.206,19455,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,335,3.52
+27.115.117.197,31991,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,657,3.48
+58.125.118.230,32741,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,371,3.41
+14.7.193.207,23586,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,329,3.36
+49.169.247.15,25985,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,383,3.27
+8.217.85.212,21297,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",191,2.97
+43.154.74.39,30958,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",176,2.92
+128.134.19.45,34769,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,312,2.84
+61.92.99.224,27244,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,525,2.57
+49.142.147.27,29530,TRUE,KIX,JP,Asia Pacific,Osaka,9319,HCN CHUNGBUK CABLE TV SYSTEMS,616,2.53
+112.166.222.247,13814,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,328,2.49
+27.115.117.197,29342,TRUE,HKG,HK,Asia Pacific,Hong Kong,17621,China Unicom Shanghai network,643,2.48
+49.165.150.206,26799,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,336,2.47
+49.142.147.27,31883,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,223,2.36
+49.142.147.27,20164,TRUE,KIX,JP,Asia Pacific,Osaka,9319,HCN CHUNGBUK CABLE TV SYSTEMS,637,2.28
+45.8.186.188,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,61112,AKILE LTD,672,2.00
+123.202.83.184,39996,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,501,1.99
+118.131.166.194,10932,TRUE,ICN,KR,Asia Pacific,Seoul,3786,LG DACOM Corporation,336,1.97
+111.65.176.140,38487,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,373,1.97
+211.205.225.238,11326,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,301,1.92
+103.137.63.37,46832,TRUE,HKG,HK,Asia Pacific,Hong Kong,131642,"Pittqiao Network Information Co.,Ltd.",392,1.81
+103.137.63.37,56571,TRUE,HKG,HK,Asia Pacific,Hong Kong,131642,"Pittqiao Network Information Co.,Ltd.",469,1.70
+111.65.134.201,30588,TRUE,ICN,KR,Asia Pacific,Seoul,17573,SK Broadband Co Ltd,371,1.64
+180.68.64.242,16325,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,358,1.54
+180.68.64.242,24323,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,350,1.53
+103.44.255.27,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,4816,China Telecom Group,204,1.51
+218.102.12.37,9999,TRUE,HKG,HK,Asia Pacific,Hong Kong,4760,HKT Limited,221,1.34
+124.53.83.5,35549,TRUE,ICN,KR,Asia Pacific,Seoul,17858,LG POWERCOMM,385,1.23
+121.168.117.22,24180,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,342,0.99
+8.217.229.36,27530,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",193,0.95
+8.218.22.210,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",170,0.93
+39.126.160.150,29493,TRUE,KIX,JP,Asia Pacific,Osaka,9319,HCN CHUNGBUK CABLE TV SYSTEMS,697,0.89
+175.117.97.25,23855,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,341,0.82
+180.68.64.242,12610,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,370,0.79
+211.177.247.184,30060,TRUE,ICN,KR,Asia Pacific,Seoul,9318,SK Broadband Co Ltd,384,0.73
+49.142.244.129,20680,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,247,0.72
+111.118.86.11,15356,TRUE,KIX,JP,Asia Pacific,Osaka,9319,HCN CHUNGBUK CABLE TV SYSTEMS,700,0.72
+8.217.229.36,59970,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",178,0.66
+49.142.244.129,16575,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,251,0.65
+203.236.109.80,27901,TRUE,ICN,KR,Asia Pacific,Seoul,4766,Korea Telecom,390,0.64
+47.76.49.246,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",198,0.61
+111.118.86.11,31657,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,256,0.59
+114.201.222.64,15193,TRUE,HKG,HK,Asia Pacific,Hong Kong,9318,SK Broadband Co Ltd,518,0.56
+49.142.244.129,18456,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,265,0.56
+8.217.229.36,20357,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",201,0.46
+202.81.232.199,53249,TRUE,HKG,HK,Asia Pacific,Hong Kong,4658,2012 Limited Netfront,284,0.45
+123.248.102.197,36272,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,414,0.42
+123.248.102.197,31241,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,414,0.41
+123.248.102.197,10347,TRUE,ICN,KR,Asia Pacific,Seoul,9845,LG HelloVision Corp.,416,0.39
+221.124.202.168,26941,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,663,0.38
+113.253.121.39,24420,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,685,0.33
+138.3.215.11,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,483,0.31
+151.145.69.105,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,486,0.30
+49.142.147.27,12722,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,207,0.28
+165.154.113.120,11451,TRUE,HKG,HK,Asia Pacific,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,631,0.25
+49.142.244.129,12502,TRUE,ICN,KR,Asia Pacific,Seoul,9319,HCN CHUNGBUK CABLE TV SYSTEMS,274,0.23
+152.70.102.124,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,638,0.21
+151.145.69.105,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,501,0.20
+8.217.229.36,40984,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",177,0.19
+221.125.146.103,33083,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,862,0.19
+132.145.121.242,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,31898,ORACLE-BMC-31898,531,0.18
+223.18.34.201,30853,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,703,0.15
+223.18.34.201,36152,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,715,0.14
+165.154.32.48,34237,TRUE,HKG,HK,Asia Pacific,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,953,0.13
+203.175.47.46,14436,TRUE,HKG,HK,Asia Pacific,Hong Kong,17573,SK Broadband Co Ltd,529,0.10
+223.18.129.85,12345,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,656,0.08
+119.28.58.214,10002,TRUE,HKG,HK,Asia Pacific,Hong Kong,132203,"Tencent Building, Kejizhongyi Avenue",195,0.04
+45.131.133.127,49653,TRUE,HKG,HK,Asia Pacific,Hong Kong,41378,Kirino LLC,201,0.03
+8.210.92.27,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",195,0.02
+123.58.212.234,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,951,0.02
+203.184.132.238,1520,TRUE,HKG,HK,Asia Pacific,Hong Kong,9304,HGC Global Communications Limited,220,0.02
